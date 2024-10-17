@@ -7,7 +7,7 @@ package org.example;
 import java.util.*;
 
 public class LongestIncreasingSubsequence {
-    // Implement the function below
+    // Implement function below
     public int lengthOfLIS(int[] nums) {
         // Your code here
         if (nums==null || nums.length==0)
