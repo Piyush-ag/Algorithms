@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.ClimbingStairs;
+import org.practise.ClimbingStairs;
 import org.junit.jupiter.api.Test;
 
 public class ClimbingStairsTest {

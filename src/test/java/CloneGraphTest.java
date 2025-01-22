@@ -1,8 +1,8 @@
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import org.example.CloneGraph;
-import org.example.Node;
+import org.practise.CloneGraph;
+import org.practise.Node;
 import org.junit.jupiter.api.Test;
 import java.util.*;
 

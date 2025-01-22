@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.SpiralOrderTraversal;
+import org.practise.SpiralOrderTraversal;
 import org.junit.jupiter.api.Test;
 import java.util.*;
 

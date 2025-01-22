@@ -1,7 +1,7 @@
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-import org.example.ProductExceptSelf;
+import org.practise.ProductExceptSelf;
 import org.junit.jupiter.api.Test;
 
 public class ProductExceptSelfTest {

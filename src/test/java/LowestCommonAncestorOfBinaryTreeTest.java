@@ -1,7 +1,7 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.LowestCommonAncestorOfBinaryTree;
-import org.example.TreeNode;
+import org.practise.LowestCommonAncestorOfBinaryTree;
+import org.practise.TreeNode;
 import org.junit.jupiter.api.Test;
 
 public class LowestCommonAncestorOfBinaryTreeTest {

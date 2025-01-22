@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.CoinChange;
+import org.practise.CoinChange;
 import org.junit.jupiter.api.Test;
 
 public class CoinChangeTest {

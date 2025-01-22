@@ -1,7 +1,7 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.BinaryTreeInorderTraversal;
-import org.example.TreeNode;
+import org.practise.BinaryTreeInorderTraversal;
+import org.practise.TreeNode;
 import org.junit.jupiter.api.Test;
 import java.util.*;
 

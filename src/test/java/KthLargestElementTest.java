@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.KthLargestElement;
+import org.practise.KthLargestElement;
 import org.junit.jupiter.api.Test;
 
 public class KthLargestElementTest {

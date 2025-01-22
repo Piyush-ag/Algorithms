@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.LongestPalindromicSubstring;
+import org.practise.LongestPalindromicSubstring;
 import org.junit.jupiter.api.Test;
 
 public class LongestPalindromicSubstringTest {

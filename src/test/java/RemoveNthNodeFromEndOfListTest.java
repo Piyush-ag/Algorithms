@@ -1,7 +1,7 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.ListNode;
-import org.example.RemoveNthNodeFromEndOfList;
+import org.practise.ListNode;
+import org.practise.RemoveNthNodeFromEndOfList;
 import org.junit.jupiter.api.Test;
 
 public class RemoveNthNodeFromEndOfListTest {

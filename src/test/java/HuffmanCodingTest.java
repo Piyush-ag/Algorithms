@@ -1,6 +1,6 @@
 
 
-import org.example.HuffmanCoding;
+import org.practise.HuffmanCoding;
 import org.junit.jupiter.api.Test;
 import java.util.Map;
 import java.util.HashMap;

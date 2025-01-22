@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.LongestSubstringWithoutRepeatingCharacters;
+import org.practise.LongestSubstringWithoutRepeatingCharacters;
 import org.junit.jupiter.api.Test;
 
 public class LongestSubstringWithoutRepeatingCharactersTest {

@@ -1,7 +1,7 @@
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import org.example.Subsets;
+import org.practise.Subsets;
 import org.junit.jupiter.api.Test;
 import java.util.*;
 

@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.EditDistance;
+import org.practise.EditDistance;
 import org.junit.jupiter.api.Test;
 
 public class EditDistanceTest {

@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.NQueens;
+import org.practise.NQueens;
 import org.junit.jupiter.api.Test;
 import java.util.*;
 

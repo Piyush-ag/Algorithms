@@ -1,7 +1,7 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.ListNode;
-import org.example.ReverseLinkedList;
+import org.practise.ListNode;
+import org.practise.ReverseLinkedList;
 import org.junit.jupiter.api.Test;
 
 public class ReverseLinkedListTest {

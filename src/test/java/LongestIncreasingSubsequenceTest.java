@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.LongestIncreasingSubsequence;
+import org.practise.LongestIncreasingSubsequence;
 import org.junit.jupiter.api.Test;
 
 public class LongestIncreasingSubsequenceTest {

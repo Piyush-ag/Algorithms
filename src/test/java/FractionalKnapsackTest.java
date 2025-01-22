@@ -1,7 +1,7 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.FractionalKnapsack;
-import org.example.Item;
+import org.practise.FractionalKnapsack;
+import org.practise.Item;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

@@ -2,8 +2,8 @@
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
-import org.example.DetectCycleInLinkedList;
-import org.example.ListNode;
+import org.practise.DetectCycleInLinkedList;
+import org.practise.ListNode;
 import org.junit.jupiter.api.Test;
 
 public class DetectCycleInLinkedListTest {

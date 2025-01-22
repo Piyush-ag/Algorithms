@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.ActivitySelection;
+import org.practise.ActivitySelection;
 import org.junit.jupiter.api.Test;
 import java.util.*;
 

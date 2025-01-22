@@ -1,6 +1,6 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.MaximumSubarray;
+import org.practise.MaximumSubarray;
 import org.junit.jupiter.api.Test;
 
 public class MaximumSubarrayTest {

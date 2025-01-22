@@ -1,7 +1,7 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.ListNode;
-import org.example.MergeTwoSortedLists;
+import org.practise.ListNode;
+import org.practise.MergeTwoSortedLists;
 import org.junit.jupiter.api.Test;
 
 public class MergeTwoSortedListsTest {

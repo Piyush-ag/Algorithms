@@ -1,7 +1,7 @@
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-import org.example.MergeSort;
+import org.practise.MergeSort;
 import org.junit.jupiter.api.Test;
 
 public class MergeSortTest {

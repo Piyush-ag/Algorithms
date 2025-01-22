@@ -1,7 +1,7 @@
 
 import static org.junit.Assert.assertEquals;
-import org.example.MaximumDepthOfBinaryTree;
-import org.example.TreeNode;
+import org.practise.MaximumDepthOfBinaryTree;
+import org.practise.TreeNode;
 import org.junit.jupiter.api.Test;
 
 public class MaximumDepthOfBinaryTreeTest {

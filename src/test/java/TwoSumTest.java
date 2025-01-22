@@ -1,7 +1,7 @@
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-import org.example.TwoSum;
+import org.practise.TwoSum;
 import org.junit.jupiter.api.Test;
 
 public class TwoSumTest {
